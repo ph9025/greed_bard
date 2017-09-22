@@ -70,28 +70,28 @@ img {
 .carousel-item-image-1{
         width: 100%;
         height: 100vh;
-        background-image: url('image/p011.JPG');
+        background-image: url('image/p011.jpg');
         background-size: cover;
         background-position: center;
     }
     .carousel-item-image-2{
         width: 100%;
         height: 100vh;
-        background-image: url('image/p012.JPG');
+        background-image: url('image/p012.jpg');
         background-size: cover;
         background-position: center;
     }
     .carousel-item-image-3{
         width: 100%;
         height: 100vh;
-        background-image: url('image/p013.JPG');
+        background-image: url('image/p013.jpg');
         background-size: cover;
         background-position:center;
     }
     .carousel-item-image-4{
         width: 100%;
         height: 100vh;
-        background-image: url('image/p014.JPG');
+        background-image: url('image/p014.jpg');
         background-size: cover;
         background-position: center;
     }
